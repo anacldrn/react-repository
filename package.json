@@ -1,0 +1,23 @@
+{
+  "name": "react-repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anacldrn/react-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anacldrn/react-repository/issues"
+  },
+  "homepage": "https://github.com/anacldrn/react-repository#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
