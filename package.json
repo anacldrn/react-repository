@@ -1,6 +1,6 @@
 {
-  "name": "react-repository",
-  "version": "1.0.0",
+  "name": "@anacldrn/react-repository",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
